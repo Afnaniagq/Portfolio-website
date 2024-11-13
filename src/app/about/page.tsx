@@ -2,6 +2,7 @@ import Link from "next/link";
 import Image from "next/image";
 import React from "react";
 
+
 function About() {
   return (
     <section className="container mx-auto py-10 px-4">

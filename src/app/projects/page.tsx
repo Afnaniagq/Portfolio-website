@@ -28,7 +28,7 @@ function Projects() {
             <h3 className="text-[#fc815c] font-bold text-2xl md:text-4xl">Electronics website</h3>
             <a href="https://github.com/Afnaniagq?tab=repositories"target="blank" className="flex gap-2">  <span className="text-[#fc815c] font-lg ">Follow</span><SiGithub  className="size-6 fill-black   hover:size-7"/></a>
           
-            <p className="text-justify text-[13px] md:text-[17px]  mt-2">Leveraging the power of Next.js, the site features fast load times, server-side rendering, and optimized performance for both desktop and mobile users. Tailwind CSS ensures a modern, clean, and customizable design first styling that adapts perfectly to any screen size With a focus on performance, usability, and scalability, this Ecommerce platform delivers an engaging and smooth browsing experience while providing powerful features for both customers and administrators.</p>
+            <p className="text-justify  text-[9px] sm:text-[13px] md:text-[17px]  mt-2">Leveraging the power of Next.js, the site features fast load times, server-side rendering, and optimized performance for both desktop and mobile users. Tailwind CSS ensures a modern, clean, and customizable design first styling that adapts perfectly to any screen size With a focus on performance, usability, and scalability, this Ecommerce platform delivers an engaging and smooth browsing experience while providing powerful features for both customers and administrators.</p>
           </div>
         </div>
 {/* second project */}
@@ -36,12 +36,12 @@ function Projects() {
         <a href="https://hijab-website-nine.vercel.app/" target="blank" className="w-full relative block md:hidden"></a>
           <div className="w-full">
           <a href="https://hijab-website-nine.vercel.app/" target="blank" className="w-full relative">
-          <Image src="/lapsrc.png" alt="pro" height={500} width={500} className="inset-0  block md:hidden h-70 w-72   "></Image> </a>
+          <Image src="/lapsrc.png" alt="pro" height={500} width={500} className="inset-0  block md:hidden h-45 w-50 sm:h-70 sm:w-72   "></Image> </a>
          
             <h3 className="text-[#fc815c] font-bold text-2xl  md:text-4xl">Hijab website</h3>
             <a href="https://www.linkedin.com/in/afnan-imran-6619a0267?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank" className="flex gap-2">     <span className="text-[#fc815c] font-lg mt-1">Follow</span> <FaLinkedin className="size-6  fill-blue-700   hover:size-7"/>   </a>
          
-            <p className="text-justify text-[13px]  md:text-[17px] mr-3 mt-2">This ECommerce website for hijabs is built with Next.js and styled using Tailwind CSS, providing a sleek, modern, and responsive shopping experience. The site leverages the performance optimizations of Next.js, ensuring fast load times and seamless navigation across devices. Tailwind CSS enables a highly customizable, visually appealing design, with a focus on simplicity and accessibility.</p>
+            <p className="text-justify text-[9px] sm:text-[13px]  md:text-[17px] mr-3 mt-2">This ECommerce website for hijabs is built with Next.js and styled using Tailwind CSS, providing a sleek, modern, and responsive shopping experience. The site leverages the performance optimizations of Next.js, ensuring fast load times and seamless navigation across devices. Tailwind CSS enables a highly customizable, visually appealing design, with a focus on simplicity and accessibility.</p>
           
           </div>
       
