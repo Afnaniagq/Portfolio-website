@@ -5,7 +5,7 @@ import Typewriter from 'typewriter-effect';
 export default  function Type(){
     return(
   
-      <h2 className="text-[30px] md:text-[35px] flex flex-row text-black ">
+      <h2 className="text-[27px] md:text-[30px] flex flex-row text-white ">
 <Typewriter
   options={{
     strings: ['I am a Web Developer', 'I am a Digital Marketer'],
