@@ -13,7 +13,7 @@ function About() {
             </div>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-[60px]">
                 <div>
-                    <Image src="/book.jpg" alt="pic" height={200} width={350} className="hover:translate-x-16 duration-1000"></Image>
+                    <Image src="/book.jpg" alt="pic" height={200} width={350} className="hover:hover:translate-y-16 duration-1000 md:hover:translate-x-16 md:duration-1000"></Image>
                 </div>
                 
                     <div className=" w-[300px]">

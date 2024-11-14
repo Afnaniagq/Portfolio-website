@@ -21,7 +21,7 @@ function Projects() {
          
           <a href="https://figma-website-olm2.vercel.app/" target="blank" className="w-full  relative">
           <HiArrowRightCircle  className="size-8 ml-[450px] top-56 relative hidden lg:block"/>
-            <Image src="/lapmob.png" alt="photo" height={530} width={530} className="inset-0  h-70 w-72  md:h-[450px] md:w-[450px]"></Image>
+            <Image src="/lapmob.png" alt="photo" height={530} width={530} className="inset-0   h-45 w-50 sm:h-70 sm:w-72  md:h-[450px] md:w-[450px]"></Image>
         
           </a>
           <div className="w-full ">

@@ -8,7 +8,7 @@ export default  function Type(){
       <h2 className="text-[30px] md:text-[35px] flex flex-row text-black ">
 <Typewriter
   options={{
-    strings: ['I,m a Web Developer', 'I,m a Digital Marketer'],
+    strings: ['I am a Web Developer', 'I am a Digital Marketer'],
     autoStart: true,
     loop: true,
   }}
