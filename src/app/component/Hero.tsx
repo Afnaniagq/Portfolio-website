@@ -11,7 +11,7 @@ function Hero() {
             <div className="container mx-auto px-4">
                 <div className="max-w-[450px] text-gray-900 flex flex-col gap-[20px]">
                     <div>
-                        <h2 className="text-lg sm:text-xl md:text-2xl mb-3 font-semibold text-white flex duration-1000 font-serif tracking-wider">Hello I&apos;m</h2>
+                        <h2 className="text-lg sm:text-xl md:text-2xl mb-3 font-semibold text-[#243642] flex duration-1000 font-serif tracking-wider">Hello I&apos;m</h2>
                         <h2 className="text-2xl sm:text-3xl md:text-5xl mb-3 font-medium text-orange-600 flex duration-1000 font-serif tracking-wider">Afnan Imran</h2>
                         <Type />
                     </div>
